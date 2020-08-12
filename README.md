@@ -2,7 +2,7 @@
 
 I'm nidup, co-founder and chief product officer at Akeneo during the day ☀, Indiehacker during the night 🌖, I love creating products 😍
 
-- 📖 I’m currently writing [The Engineering Manager's Survival Guide](https://gum.co/the-engineering-managers-survival-guide) (available in pre-order ✨) 
+- 📖 I’m currently writing [The Engineering Manager's Survival Guide](https://nidup.io/the-engineering-managers-survival-guide) (available in pre-order ✨) 
 - 💬 I love discussing product, technology, team work, and business
 - 📝 I write short stories on [my blog](https://nidup.io/), and previously on [Medium](https://medium.com/@nidup)
 - 💻 I love open source, and I enjoy sharing publically what I learn
