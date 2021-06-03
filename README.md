@@ -8,8 +8,7 @@ I'm nidup, co-founder and chief product officer at Akeneo during the day ☀, In
 - 🗃 I gather and consolidate a list of useful resources on [Architecture Decision Records (ADR)](https://architecturedecisionrecord.com/)
 - 💻 I love open source, and I enjoy sharing publically what I learn
 - 📚 I like to read, especially leadership and management's books, as well as Sci-Fi novels
-- 🎮 I like to practice gam jams, you can find my games in my repos or play them on [ldjam.com](https://ldjam.com/users/nidup/games)
-- ⚡ I recently built a blazzing fast [emoji search engine](https://instantemoji.nidup.io/) for the fun 
+- 🎮 I like to practice gam jams, you can find my games in my repos or play them on [ldjam.com](https://ldjam.com/users/nidup/games) 
 - ✨ I'm a bit addicted to emojis, I use them far too much
 - 🐦 You can reach me on Twitter [@duponico](https://twitter.com/duponico)
 - 🏗 You can reach me on IndieHacker [@nidup](https://www.indiehackers.com/nidup)
